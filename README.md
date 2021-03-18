@@ -13,3 +13,6 @@ While this competition is open to all, registered participants of AI Hack Tunisi
 will take place in Tunis, Tunisia from Sep 20th to 22nd 2019
 
 AI Hack Tunisia 2019 is organised by InstaDeep, with the support of Google and the Tunisian Ministère de l'Industrie et des PMEs (Ministry of Industry and SMEs).
+
+
+Dataset found on https://zindi.africa/competitions/financial-inclusion-in-africa/data
